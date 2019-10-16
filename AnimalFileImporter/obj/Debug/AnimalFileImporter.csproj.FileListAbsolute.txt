@@ -1,0 +1,31 @@
+\\psf\iCloud\FHICT\Periode 3\PRC21\opdracht week 7\AnimalShelterFinalFinal\AnimalFileImporter\bin\Debug\AnimalFileImporter.exe.config
+\\psf\iCloud\FHICT\Periode 3\PRC21\opdracht week 7\AnimalShelterFinalFinal\AnimalFileImporter\obj\Debug\AnimalFileImporter.AnimalFileImporterForm.resources
+\\psf\iCloud\FHICT\Periode 3\PRC21\opdracht week 7\AnimalShelterFinalFinal\AnimalFileImporter\obj\Debug\AnimalFileImporter.Properties.Resources.resources
+\\psf\iCloud\FHICT\Periode 3\PRC21\opdracht week 7\AnimalShelterFinalFinal\AnimalFileImporter\obj\Debug\AnimalFileImporter.csproj.GenerateResource.Cache
+\\psf\iCloud\FHICT\Periode 3\PRC21\opdracht week 7\AnimalShelterFinalFinal\AnimalFileImporter\bin\Debug\AnimalFileImporter.exe
+\\psf\iCloud\FHICT\Periode 3\PRC21\opdracht week 7\AnimalShelterFinalFinal\AnimalFileImporter\bin\Debug\AnimalFileImporter.pdb
+\\psf\iCloud\FHICT\Periode 3\PRC21\opdracht week 7\AnimalShelterFinalFinal\AnimalFileImporter\obj\Debug\AnimalFileImporter.exe
+\\psf\iCloud\FHICT\Periode 3\PRC21\opdracht week 7\AnimalShelterFinalFinal\AnimalFileImporter\obj\Debug\AnimalFileImporter.pdb
+\\psf\iCloud\FHICT\Periode 3\PRC21\opdracht week 7\AnimalShelterFinalFinal\AnimalFileImporter\obj\Debug\AnimalFileImporter.csprojResolveAssemblyReference.cache
+C:\Users\Dave\Desktop\uitpak\AnimalShelterFinalFinal\AnimalFileImporter\bin\Debug\AnimalFileImporter.exe.config
+C:\Users\Dave\Desktop\uitpak\AnimalShelterFinalFinal\AnimalFileImporter\obj\Debug\AnimalFileImporter.exe
+C:\Users\Dave\Desktop\uitpak\AnimalShelterFinalFinal\AnimalFileImporter\obj\Debug\AnimalFileImporter.pdb
+C:\Users\Dave\Desktop\uitpak\AnimalShelterFinalFinal\AnimalFileImporter\bin\Debug\AnimalFileImporter.exe
+C:\Users\Dave\Desktop\uitpak\AnimalShelterFinalFinal\AnimalFileImporter\bin\Debug\AnimalFileImporter.pdb
+C:\Users\Dave\Desktop\uitpak\AnimalShelterFinalFinal\AnimalFileImporter\obj\Debug\AnimalFileImporter.csprojResolveAssemblyReference.cache
+C:\Users\Dave\Desktop\uitpak\AnimalShelterFinalFinal\AnimalFileImporter\obj\Debug\AnimalFileImporter.AnimalFileImporterForm.resources
+C:\Users\Dave\Desktop\uitpak\AnimalShelterFinalFinal\AnimalFileImporter\obj\Debug\AnimalFileImporter.Properties.Resources.resources
+C:\Users\Dave\Desktop\uitpak\AnimalShelterFinalFinal\AnimalFileImporter\obj\Debug\AnimalFileImporter.csproj.GenerateResource.Cache
+C:\Users\Dave\Desktop\LPA voorbeelden\AnimalShelterFinalFinal\AnimalFileImporter\bin\Debug\AnimalFileImporter.exe.config
+C:\Users\Dave\Desktop\LPA voorbeelden\AnimalShelterFinalFinal\AnimalFileImporter\obj\Debug\AnimalFileImporter.exe
+C:\Users\Dave\Desktop\LPA voorbeelden\AnimalShelterFinalFinal\AnimalFileImporter\obj\Debug\AnimalFileImporter.pdb
+C:\Users\Dave\Desktop\LPA P-Fase\AnimalShelterFinalFinal\AnimalFileImporter\bin\Debug\AnimalFileImporter.exe.config
+C:\Users\Dave\Desktop\LPA P-Fase\AnimalShelterFinalFinal\AnimalFileImporter\bin\Debug\AnimalFileImporter.exe
+C:\Users\Dave\Desktop\LPA P-Fase\AnimalShelterFinalFinal\AnimalFileImporter\bin\Debug\AnimalFileImporter.pdb
+C:\Users\Dave\Desktop\LPA P-Fase\AnimalShelterFinalFinal\AnimalFileImporter\obj\Debug\AnimalFileImporter.csprojAssemblyReference.cache
+C:\Users\Dave\Desktop\LPA P-Fase\AnimalShelterFinalFinal\AnimalFileImporter\obj\Debug\AnimalFileImporter.AnimalFileImporterForm.resources
+C:\Users\Dave\Desktop\LPA P-Fase\AnimalShelterFinalFinal\AnimalFileImporter\obj\Debug\AnimalFileImporter.Properties.Resources.resources
+C:\Users\Dave\Desktop\LPA P-Fase\AnimalShelterFinalFinal\AnimalFileImporter\obj\Debug\AnimalFileImporter.csproj.GenerateResource.cache
+C:\Users\Dave\Desktop\LPA P-Fase\AnimalShelterFinalFinal\AnimalFileImporter\obj\Debug\AnimalFileImporter.csproj.CoreCompileInputs.cache
+C:\Users\Dave\Desktop\LPA P-Fase\AnimalShelterFinalFinal\AnimalFileImporter\obj\Debug\AnimalFileImporter.exe
+C:\Users\Dave\Desktop\LPA P-Fase\AnimalShelterFinalFinal\AnimalFileImporter\obj\Debug\AnimalFileImporter.pdb
